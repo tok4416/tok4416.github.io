@@ -19,16 +19,17 @@ My name is Tyler Kranzen and I am from Aptos, California near Santa Cruz. My hob
 
 
 ### Header 3
+Things I want to learn from the course
+- Learn how to make own product
+- Learn the step by step process of making a product
+- learning how to code a little bit more
+- learning how to communicate as group and help each other as a group
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzEvNChde04apIvYqyluCaqpqoavpD_0-Pgg&usqp=CAU)
+[Link](https://www.rit.edu/computing/department-software-engineering) and ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzEvNChde04apIvYqyluCaqpqoavpD_0-Pgg&usqp=CAU)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
