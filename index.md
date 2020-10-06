@@ -34,8 +34,9 @@ Things I want to learn from the course
 
 **Bold** and _Italic_ and `Code` text
 
-<a href="https://www.rit.edu/computing/department-software-engineering">SE_Website</a>
-<a>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzEvNChde04apIvYqyluCaqpqoavpD_0-Pgg&usqp=CAU</a>
+[SE Website](https://www.rit.edu/computing/department-software-engineering)
+[Image of favorite food](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzEvNChde04apIvYqyluCaqpqoavpD_0-Pgg&usqp=CAU)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
