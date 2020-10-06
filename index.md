@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-My name is Tyler Kranzen and I am from Aptos, California near Santa Cruz. My hobbies are playing tennis, golf , video games, playing a card game called Magic the Gathering with my friends and I enjoy travelling by myself to Europe during the winter and summer. The high school I attended was Aptos High School in Aptos. I enjoy learning new programs that I haven't used ever and use them to my own benefit by running game servers and creating programs using python/c++.
+#My name is Tyler Kranzen and I am from Aptos, California near Santa Cruz. My hobbies are playing tennis, golf , video games, playing a card game called Magic the Gathering with my friends and I enjoy travelling by myself to Europe during the winter and summer. The high school I attended was Aptos High School in Aptos. I enjoy learning new programs that I haven't used ever and use them to my own benefit by running game servers and creating programs using python/c++.
 
 ## Header 2
 
